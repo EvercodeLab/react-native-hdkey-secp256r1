@@ -8,10 +8,6 @@
     "type": "git",
     "url": "git://github.com/EvercodeLab/react-native-hdkey-secp256r1"
   },
-  "publishConfig": {
-    "access": "restricted",
-    "registry": "https://storage.evercodelab.com/repository/npm/"
-  },
   "license": "MIT",
   "keywords": [
     "bitcoin",
